@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Year - TDD", "Leap Year - TDD\Leap Year - TDD.csproj", "{08FC08E8-D387-4D8F-BE4E-DA8332D7692D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Year - Tests", "LeapYearTests\Leap Year - Tests.csproj", "{459E6980-B994-47C2-A3D0-C76C33C203D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08FC08E8-D387-4D8F-BE4E-DA8332D7692D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FC08E8-D387-4D8F-BE4E-DA8332D7692D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FC08E8-D387-4D8F-BE4E-DA8332D7692D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FC08E8-D387-4D8F-BE4E-DA8332D7692D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459E6980-B994-47C2-A3D0-C76C33C203D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459E6980-B994-47C2-A3D0-C76C33C203D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459E6980-B994-47C2-A3D0-C76C33C203D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459E6980-B994-47C2-A3D0-C76C33C203D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4F1FFE-AA21-43ED-895C-CDFF166C86E0}
+	EndGlobalSection
+EndGlobal

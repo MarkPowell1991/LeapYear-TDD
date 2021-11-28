@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\LeapYearTests\\Leap Year - Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\Leap Year - TDD\\Leap Year - TDD.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\Leap Year - TDD\\Leap Year - TDD.csproj",
+        "projectName": "Leap Year - TDD",
+        "projectPath": "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\Leap Year - TDD\\Leap Year - TDD.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\LeapYearTests\\Leap Year - Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\LeapYearTests\\Leap Year - Tests.csproj",
+        "projectName": "Leap Year - Tests",
+        "projectPath": "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\LeapYearTests\\Leap Year - Tests.csproj",
+        "packagesPath": "C:\\Users\\damdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\LeapYearTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\Leap Year - TDD\\Leap Year - TDD.csproj": {
+                "projectPath": "C:\\Users\\damdi\\OneDrive\\Documents\\Coding Tutorials\\Leap Year - TDD\\Leap Year - TDD\\Leap Year - TDD.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
